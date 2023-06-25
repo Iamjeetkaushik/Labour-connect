@@ -3,7 +3,7 @@ import React from 'react';
 const Fotter = () => {
   return (
     <div className='container max-w-full bg-zinc-200 p-10'>
-      <div className='grid grid-cols-4 w-5/6 my-20 text-black'>
+      <div className='grid grid-cols-4 w-5/6 mt-20 text-black'>
         <div className='flex flex-col gap-1'>
           <p className='text-xl font-bold my-4'>Features</p>
           <p className='text-xl font-normal'>Facebook Ads</p>

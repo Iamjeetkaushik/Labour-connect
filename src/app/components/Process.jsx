@@ -12,33 +12,33 @@ const Process = () => {
         </div>
         <div className='grid grid-flow-row grid-cols-2 items-center justify-between w-full'>
           <div className='flex flex-col gap-20 my-60'>
-            <div className='flex gap-4 flex-col w-full p-6 rounded-xl shadow-lg'>
-              <p className='text-xl font-semibold'>
+            <div className='flex gap-6 flex-col w-full p-6 rounded-xl hover:shadow-lg'>
+              <p className='text-2xl font-semibold'>
                 Step 1 : Create Your Profile
               </p>
-              <p>
+              <p className='text-xl'>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 Suscipit adipiscing bibendum est ultricies integer quis. A lacus
                 vestibulum sed.
               </p>
             </div>
-            <div className='flex gap-4 flex-col w-full p-6 rounded-xl'>
-              <p className='text-xl font-semibold'>
+            <div className='flex gap-6 flex-col w-full p-6 rounded-xl hover:shadow-lg'>
+              <p className='text-2xl font-semibold'>
                 Step 2 : Create Your Profile
               </p>
-              <p>
+              <p className='text-xl'>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 Suscipit adipiscing bibendum est ultricies integer quis. A lacus
                 vestibulum sed.
               </p>
             </div>
-            <div className='flex gap-4 flex-col w-full p-6 rounded-xl'>
-              <p className='text-xl font-semibold'>
+            <div className='flex gap-6 flex-col w-full p-6 rounded-xl hover:shadow-lg'>
+              <p className='text-2xl font-semibold'>
                 Step 3 : Create Your Profile
               </p>
-              <p>
+              <p className='text-xl'>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 Suscipit adipiscing bibendum est ultricies integer quis. A lacus
