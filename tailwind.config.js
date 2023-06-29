@@ -8,6 +8,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
+        driver: 'url(/src/app/Resources/card1.png)',
+        fork: 'url(/src/app/Resources/card2.png)',
+        dispatcher: 'url(/src/app/Resources/card3.png)',
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
@@ -15,4 +18,4 @@ module.exports = {
     },
   },
   plugins: [],
-}
+};

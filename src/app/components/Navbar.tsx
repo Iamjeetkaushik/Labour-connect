@@ -10,8 +10,8 @@ const Navbar = () => {
         <div className='flex'>
           <div className='flex items-center justify-between w-64 text-black text-xl mx-16'>
             <a href=''>About</a>
-            <a href=''>Features</a>
-            <a href=''>Pricing</a>
+            <a href=''>Process</a>
+            <a href=''>Jobs</a>
           </div>
           <div className='w-1/2 flex justify-between'>
             <button className='h-14 w-40 rounded-full bg-black text-xl'>

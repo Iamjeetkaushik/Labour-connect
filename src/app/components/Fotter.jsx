@@ -19,7 +19,7 @@ const Fotter = () => {
           <p className='text-xl font-normal'>Landing Page Tool</p>
         </div>
         <div className='flex flex-col gap-1'>
-          <p className='text-xl font-bold my-4'>Lorem</p>
+          <p className='text-xl font-bold my-4'>Policies</p>
           <p className='text-xl font-normal'>Facebook Ads</p>
           <p className='text-xl font-normal'>Landing Page Tool</p>
           <p className='text-xl font-normal'>Google Ads</p>
@@ -28,11 +28,11 @@ const Fotter = () => {
           <p className='text-xl font-bold my-4'>Email</p>
           <div className='flex gap-0'>
             <input
-              className='rounded-l-md'
+              className='rounded-l-md pl-4'
               type='text'
               placeholder='Enter your Email'
             />
-            <button className='bg-orange-500 text-white p-2 w-40 rounded-r-md'>
+            <button className='bg-orange-500 text-white p-2 w-32 rounded-r-md'>
               Sign Up
             </button>
           </div>

@@ -7,7 +7,7 @@ const Process = () => {
     <div className='relative max-w-full container text-black my-40'>
       <div className='relative w-5/6 flex flex-col'>
         <div className='flex flex-col items-center gap-8'>
-          <p className='text-orange-500 text-xl font-bold'>How it works</p>
+          <p className='text-orange-500 text-2xl font-bold'>How it works</p>
           <p className='text-6xl font-semibold'>Get Hired in 3 simple steps</p>
         </div>
         <div className='grid grid-flow-row grid-cols-2 items-center justify-between w-full'>

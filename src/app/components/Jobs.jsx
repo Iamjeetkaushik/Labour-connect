@@ -11,7 +11,7 @@ const Jobs = () => {
     <div className='container text-black mb-40 max-w-full '>
       <div className='flex flex-col w-5/6 gap-30'>
         <div className='flex flex-col mb-40 gap-4'>
-          <p className='text-orange-500 text-xl font-bold'>Job Openings</p>
+          <p className='text-orange-500 text-2xl font-bold'>Job Openings</p>
           <div className='flex items-center justify-between'>
             <p className='text-4xl font-semibold'>
               20,000+ job opening waiting for you
@@ -22,7 +22,7 @@ const Jobs = () => {
             </div>
           </div>
         </div>
-        <div className='flex gap-44 items-center'>
+        <div className='flex lg:flex-row flex-col gap-44 items-center'>
           <div className='relative mt-96 flex items-center'>
             <div className='flex flex-col p-4'>
               <p className='text-2xl text-white font-bold'>Truck Drivers</p>
@@ -46,7 +46,7 @@ const Jobs = () => {
             </button>
             <Image
               className='absolute left-0 bottom-0 -z-10 max-w-full'
-              src={card1}
+              src={card2}
             />
           </div>
           <div className='relative mt-96 flex items-center'>
@@ -59,7 +59,7 @@ const Jobs = () => {
             </button>
             <Image
               className='absolute left-0 bottom-0 -z-10 max-w-full'
-              src={card1}
+              src={card3}
             />
           </div>
         </div>
